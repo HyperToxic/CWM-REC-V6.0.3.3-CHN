@@ -86,9 +86,9 @@ int device_wipe_data();
 #define ITEM_POWEROFF        7
 
 // 一键wipe
-#define ITEM_GUOHOWWHOLEWIPE        8
+#define ITEM_GUOHOWWHOLEWIPE        9
 // 添加一键刷机
-#define ITEM_GUOHOWFLASH        9
+#define ITEM_GUOHOWFLASH        8
 // 帮助
 #define ITEM_GUOHOWHELP        10
 // Header text to display above the main menu.
